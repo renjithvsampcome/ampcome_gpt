@@ -48,7 +48,7 @@ Please put model=GPT4All in .env file
 In order to ask a question, run a command like:
 
 ```shell
-python privateGPT.py
+python ampcome_gpt.py
 ```
 
 And can chat with it.
@@ -63,7 +63,7 @@ Please put model=Palm in .env file,
 In order to ask a question, run a command like:
 
 ```shell
-python privateGPT.py
+python ampcome_gpt.py
 ```
 
 And can chat with it.
